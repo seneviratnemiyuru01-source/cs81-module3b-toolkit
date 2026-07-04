@@ -11,3 +11,5 @@ The isEven() and isOdd() functions required using the modulo (%) operator to det
 ## How might this kind of toolkit be used in the real world?
 
 A collection of utility functions like these can be reused in larger programs to perform common mathematical operations without rewriting the same code multiple times thus being time efficient. 
+
+Finally, all predictions matched the actual results after the testing process. 
