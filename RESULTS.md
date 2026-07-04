@@ -49,3 +49,5 @@ multiply(4, 6)
 Output:
 
 24
+
+The functions produced the expected result during the testing process. 
